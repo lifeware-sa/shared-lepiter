@@ -140,7 +140,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-12-28T11:15:26.831+01:00"
+						"dateAndTimeString" : "2021-12-28T12:02:03.722+01:00"
 					}
 				},
 				"uid" : {
@@ -150,7 +150,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "The next time I'll open the image the monitoring process will sync the pages from this folder. Keep in mind that the changes a still not **committed** to the **local** repository, nor shared."
+				"string" : "The next time I'll open the image the monitoring process will sync the pages from this folder. Keep in mind that the changes are still not **committed** to the **local** repository, nor shared."
 			},
 			{
 				"__type" : "textSnippet",
